@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zadanie Domowe 2 UBI</string>
+    <string name="key">151799</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.jpg</string>
+    <string name="authorities">com.example.fileprovider</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
